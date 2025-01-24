@@ -34,11 +34,11 @@ education:
     - course: PhD in Sustainability
       institution: Arizona Sate University
       year: 2019
-    - course: M.S. Environmental Studies & Natural Resource Management
-      institution: TERI School of Advanced Studies
+    - course: Masters of Architecture
+      institution: University of Colorado
       year: 2014
-    - course: B.S. Mechanical Engineering 
-      institution: Jawaharlal Nehru Technological University
+    - course: Bachelors in Environmental Design
+      institution: University of Colorado
       year: 2010 
 
 # Social/Academic Networking
