@@ -28,18 +28,21 @@ interests:
   - Institutions
   - Resilience of Complex Systems
   - Collective Action and the Commons
+  - Add Regenerative Development & Design
+  - Add Bioregionalism
+
 
 education:
   courses:
     - course: PhD in Sustainability
       institution: Arizona Sate University
-      year: 2019
+      year: 2018
     - course: Masters of Architecture
       institution: University of Colorado
-      year: 2014
+      year: 2006
     - course: Bachelors in Environmental Design
       institution: University of Colorado
-      year: 2010 
+      year: 2004 
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -55,9 +58,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+ - icon: cv
+   icon_pack: ai
+   link: files/Ratajczyk_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
