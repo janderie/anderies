@@ -28,8 +28,8 @@ interests:
   - Institutions
   - Resilience of Complex Systems
   - Collective Action and the Commons
-  - Add Regenerative Development & Design
-  - Add Bioregionalism
+  - Regenerative Development & Design
+  - Bioregionalism
 
 
 education:
